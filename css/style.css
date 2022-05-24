@@ -6,12 +6,13 @@
 @import './util/tipografia.css';
 @import './util/cores.css';
 
-@import './global/header.css';
+@import './home/header.css';
 
     /*utilidades*/
 @import './util/componentes.css';
 
     /*home*/
+@import'./home/tecnologia.css';
 @import './home/introcucao.css';
 
     /*bicicletas*/
